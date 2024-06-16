@@ -2,6 +2,7 @@
   "name": "hexlet-js",
   "version": "1.0.0",
   "type": "module",
+  "main": "src/index.js",
   "dependencies": {
     "lodash": "^4.17.21"
   },

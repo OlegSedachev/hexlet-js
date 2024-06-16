@@ -1,2 +1,3 @@
-import _ from "lodash";
-console.log(_.last(["one", "two"]));
+import getLastElement from "./src/index.js";
+
+export default getLastElement;
