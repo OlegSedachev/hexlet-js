@@ -1,3 +1,3 @@
-import getLastElement from "./src/index.js";
+import getLastElement from './src/index.js';
 
 export default getLastElement;
